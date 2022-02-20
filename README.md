@@ -26,9 +26,7 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://github.com/luissitoe/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://luissitoe.github.io/nft-preview-card-component/)
+- Live Site URL: [Visit site](https://luissitoe.github.io/nft-preview-card-component/)
 
 ## My process
 
